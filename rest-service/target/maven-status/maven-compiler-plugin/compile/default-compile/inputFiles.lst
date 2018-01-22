@@ -1,0 +1,3 @@
+/home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/model/Vehicle.java
+/home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/controller/VehicleController.java
+/home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/App.java
