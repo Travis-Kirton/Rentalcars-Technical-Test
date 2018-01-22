@@ -11,7 +11,7 @@ To run the both tasks (part 1 + part 2) you'll need the following:
 
 ### Part 1
 
-Part 1 is a Java console application. To run, just use the following:
+Part 1 is a Java console application. To run, ensure within root directory and use the following:
 
 ```  
 java -jar rentalcars_part.jar
@@ -30,7 +30,8 @@ Part 2 is a RESTful service that allows a JSON output of results when calling a 
 
 To run this section, navigate into the 'rest-service' directory and run the following:
 ```
-mvn clean install spring-boot:run
+mvn clean install 
+mvn spring-boot:run
 ```
 
 this will launch the web-service on port 8080. Navigate to [http://localhost:8080/service/vehicles/](http://localhost:8080/service/vehicles/)
@@ -45,6 +46,9 @@ You can then append the following to get specific results
 
 e.g. 
 [http://localhost:8080/service/vehicles/listCarsByPriceAsc](http://localhost:8080/service/vehicles/listCarsByPriceAsc)
+
+
+
 
 
 
