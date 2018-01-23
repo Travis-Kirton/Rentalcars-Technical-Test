@@ -1,5 +1,13 @@
 package com.rentalcars.restservice.controller;
 
+/**
+ * @author Travis Kirton
+ * 
+ *         class: VehicleController.java 
+ *         date: 21/01/2018
+ *         description: Controller for API requests, returning JSON
+ */
+
 import java.util.List;
 
 import javax.annotation.PostConstruct;

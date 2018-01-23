@@ -12,8 +12,8 @@ import com.rentalcars.restservice.model.Response;
 /**
  * @author Travis Kirton
  * 
- *         class: ProcessVehicleTest.java date: 21/01/2018 description: Tests
- *         ProcessVehicle.java
+ *         class: ProcessVehicleTest.java 
+ *         date: 23/01/2018 
  */
 
 public class ProcessVehicleTest {

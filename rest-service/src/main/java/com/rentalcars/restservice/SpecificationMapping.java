@@ -1,5 +1,13 @@
 package com.rentalcars.restservice;
 
+/**
+ * @author Travis Kirton
+ * 
+ *         class: SpecificationMapping.java 
+ *         date: 21/01/2018
+ *         description: Mapping specifications based on table
+ */
+
 import java.util.HashMap;
 import java.util.Map;
 

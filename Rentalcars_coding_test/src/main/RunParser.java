@@ -1,5 +1,14 @@
 package main;
 
+/**
+ * @author Travis Kirton
+ * 
+ *         class: RunParser.java 
+ *         date: 23/01/2018 
+ *         description: Main method to run app
+ *        
+ */
+
 import main.parser.JSONParser;
 
 public class RunParser {
@@ -15,5 +24,4 @@ public class RunParser {
 			e.printStackTrace();
 		}
 	}
-
 }

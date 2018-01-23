@@ -1,5 +1,15 @@
 package com.rentalcars.restservice;
 
+/**
+ * @author Travis Kirton
+ * 
+ * class: ProcessVehicle.java
+ * date:  21/01/2018
+ * description: Lists vehicles and values in specific orders based on criteria
+ * 
+ * Extra: Comparator use is based on java 1.8
+ */
+
 import java.util.ArrayList;
 
 /**

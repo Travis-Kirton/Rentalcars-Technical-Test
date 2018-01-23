@@ -18,8 +18,9 @@ import com.rentalcars.restservice.JSONParser;
 /**
  * @author Travis Kirton
  * 
- *         class: JSONParserTest.java date: 21/01/2018 description: Tests
- *         JSONParser.java
+ *         class: JSONParserTest.java 
+ *         date: 21/01/2018 
+ *         description: Tests JSONParser.java
  */
 
 public class JSONParserTest {

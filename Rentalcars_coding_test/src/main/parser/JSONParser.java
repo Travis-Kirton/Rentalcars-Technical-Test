@@ -1,5 +1,13 @@
 package main.parser;
 
+/**
+ * @author Travis Kirton
+ * 
+ *         class: JSONParser.java 
+ *         date: 23/01/2018 
+ *         description: reading initial JSON
+ */
+
 import java.io.IOException;
 import java.net.MalformedURLException;
 
