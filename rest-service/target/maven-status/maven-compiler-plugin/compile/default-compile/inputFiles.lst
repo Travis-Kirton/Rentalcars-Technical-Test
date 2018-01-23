@@ -1,3 +1,7 @@
 /home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/model/Vehicle.java
 /home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/controller/VehicleController.java
+/home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/JSONParser.java
+/home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/ProcessVehicles.java
+/home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/SpecificationMapping.java
 /home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/App.java
+/home/travis/gradWorkspace/rest-service/src/main/java/com/rentalcars/restservice/model/Response.java

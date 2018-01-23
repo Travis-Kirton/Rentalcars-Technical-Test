@@ -1,0 +1,3 @@
+/home/travis/gradWorkspace/rest-service/src/test/java/com/rentalcars/restservice/test/ProcessVehicleTest.java
+/home/travis/gradWorkspace/rest-service/src/test/java/com/rentalcars/restservice/test/JSONParserTest.java
+/home/travis/gradWorkspace/rest-service/src/test/java/com/rentalcars/restservice/test/VehicleControllerTest.java

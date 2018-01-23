@@ -37,6 +37,7 @@ mvn spring-boot:run
 this will launch the web-service on port 8080. Navigate to [http://localhost:8080/service/vehicles/](http://localhost:8080/service/vehicles/)
 
 You can then append the following to get specific results
+
 |URL End-point|Description|
 |--|--|
 |listCarsByPriceAsc|Will output a JSON result of Cars ordered by price|

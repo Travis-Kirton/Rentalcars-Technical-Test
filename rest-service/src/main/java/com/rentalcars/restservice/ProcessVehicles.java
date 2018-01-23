@@ -61,7 +61,8 @@ public class ProcessVehicles {
 		Collections.sort(res.getVehicles(), Comparator.comparingDouble(Vehicle ::getRating).reversed());
 		for(int i = 0; i < res.getVehicles().size(); i++){
 			Vehicle v = res.getVehicles().get(i);
-			results.add(i+1+". " + v.getName() + " - " + v.getCarType() + " - " + v.getSupplier() + " -  "+ v.getRating());
+			initCarSpecs(v);
+			results.add(i+1+". " + v.getName() + " - " + v.getCarType() + " - " + v.getSupplier() + " - "+ v.getRating());
 		}
 		return results;
 	}
