@@ -34,6 +34,14 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+Or within the root directory containing JARs
+
+```
+java -jar rest-service-0.0.1-SNAPSHOT.jar
+```
+
+<sub>(tests will be run during this process as well)</sub>
+
 this will launch the web-service on port 8080. Navigate to [http://localhost:8080/service/vehicles/](http://localhost:8080/service/vehicles/)
 
 You can then append the following to get specific results
@@ -47,6 +55,14 @@ You can then append the following to get specific results
 
 e.g. 
 [http://localhost:8080/service/vehicles/listCarsByPriceAsc](http://localhost:8080/service/vehicles/listCarsByPriceAsc)
+
+
+### Development Environment
+
+* IDE = Eclipse Neon
+* OS = Ubuntu 17.04
+* Browsers Tested with = Chrome, Firefox, IE
+
 
 
 

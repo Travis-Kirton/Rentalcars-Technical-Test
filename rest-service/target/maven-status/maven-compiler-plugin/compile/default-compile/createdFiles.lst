@@ -1,0 +1,7 @@
+com/rentalcars/restservice/model/Response.class
+com/rentalcars/restservice/App.class
+com/rentalcars/restservice/SpecificationMapping.class
+com/rentalcars/restservice/controller/VehicleController.class
+com/rentalcars/restservice/ProcessVehicles.class
+com/rentalcars/restservice/model/Vehicle.class
+com/rentalcars/restservice/JSONParser.class
