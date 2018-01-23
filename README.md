@@ -47,7 +47,7 @@ this will launch the web-service on port 8080. Navigate to [http://localhost:808
 You can then append the following to get specific results
 
 |URL End-point|Description|
-|--|--|
+|---|---|
 |listCarsByPriceAsc|Will output a JSON result of Cars ordered by price|
 |listCarsSpecification|Will output a JSON result of Cars with specifications|
 |listCarsHighestRatedDesc|Will output a JSON result of Cars ordered by Rating|
@@ -62,6 +62,16 @@ e.g.
 * IDE = Eclipse Neon
 * OS = Ubuntu 17.04
 * Browsers Tested with = Chrome, Firefox, IE
+
+
+### Languages/frameworks/dependencies
+
+* Java 1.8
+* Spring Boot Framework
+* Maven
+* Jackson (JSON Parsing)
+* JUnit 1.4 for testing
+* Spring Boot Mvc Mocking for testing
 
 
 
